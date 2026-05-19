@@ -137,7 +137,7 @@ end)
 
 SubmitBtn.MouseButton1Click:Connect(function()
     if KeyInput.Text == "HTK.RonneiKey_cd5847ba430e9f2e5807ed95125cb243" then
-        SubmitBtn.Text = "XÁC MINH THÀNH CÔNG!"
+        SubmitBtn.Text = "ĐÚNG KEY RỒI CƠM MẸ NẤU!"
         SubmitBtn.BackgroundColor3 = Color3.fromRGB(0, 255, 127) -- Đổi sang xanh lá khi đúng key
         SubmitBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
         task.wait(1)
